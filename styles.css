@@ -1,8 +1,8 @@
 body {
     color: white;
-    background: blanchedalmond;
+    background: black;
 }
 
 header {
-    border: solid 2px white;
+    border-bottom: solid 2px white;
 }

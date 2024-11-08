@@ -10,6 +10,6 @@ header {
     color: white;
 }
 section{
-    background:  green;
-    padding: green;
+    background:  rgb(0, 0, 0);
+    padding: rgb(0, 0, 0);
 }

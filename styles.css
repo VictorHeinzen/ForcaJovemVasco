@@ -1,7 +1,6 @@
 body {
     color: white;
     background: black;
-    font-size: 60px;
     font-family: "Bokor", sans-serif;
 }
 
@@ -26,5 +25,8 @@ h1 {
     font-size: 40px;
 }
 p{
-    font-size: 40px;
+    font-size: 30px;
+}
+header{
+    font-size: 60px;
 }

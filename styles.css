@@ -1,6 +1,7 @@
 body {
     color: white;
     background: black;
+    font-size: 60px;
     font-family: "Bokor", sans-serif;
 }
 
@@ -22,5 +23,8 @@ section{
 margin-right: 20px;
 }
 h1 {
+    font-size: 40px;
+}
+p{
     font-size: 40px;
 }
